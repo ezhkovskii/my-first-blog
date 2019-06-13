@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8486f710-17dc-41a2-8d7e-7a73fa75c691" name="Default Changelist" comment="" />
+    <list default="true" id="8486f710-17dc-41a2-8d7e-7a73fa75c691" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/templates/blog/post_detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/templates/blog/post_detail.html" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,8 +73,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/blog/templates/blog/post_detail.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="14" lean-forward="true" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
+            <state relative-caret-position="170">
+              <caret line="10" column="197" selection-start-line="10" selection-start-column="197" selection-end-line="10" selection-end-column="197" />
             </state>
           </provider>
         </entry>
@@ -239,12 +242,12 @@
       <option name="presentableId" value="Default" />
       <updated>1560412213044</updated>
       <workItem from="1560412214312" duration="4665000" />
-      <workItem from="1560422431840" duration="10123000" />
+      <workItem from="1560422431840" duration="10270000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14788000" />
+    <option name="totallyTimeSpent" value="14935000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -381,8 +384,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/blog/templates/blog/post_detail.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="14" lean-forward="true" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
+        <state relative-caret-position="170">
+          <caret line="10" column="197" selection-start-line="10" selection-start-column="197" selection-end-line="10" selection-end-column="197" />
         </state>
       </provider>
     </entry>
