@@ -39,11 +39,13 @@ h1, h2, h3, h4 {
 
 .post {
     margin-bottom: 50px;
+
 }
 
 .post h1 a, .post h1 a:visited {
     color: #000000;
     font-size: 20pt;
+
 }
 
 .del { display: none; }
@@ -60,4 +62,8 @@ h1, h2, h3, h4 {
 }
 .del:checked + label {
   background: rgba(28, 28, 28, 0.31);
+}
+
+.comment {
+    margin: 20px 0px 20px 20px;
 }
